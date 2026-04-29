@@ -42,7 +42,7 @@ web-scraper/
 1. Clone the Repository
 
 git clone https://github.com/subhankar505s/SimpleWebScraperTool.git
-cd web-scraper
+cd SimpleWebScraperTool
 
 2. Create Virtual Environment (Optional but Recommended)
 
