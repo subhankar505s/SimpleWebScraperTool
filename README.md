@@ -10,10 +10,10 @@ A simple and efficient Python-based web scraping tool that extracts useful infor
 📌 Features
 
 * Extracts webpage title
-* Collects all paragraph tags (<p>)
+* Collects all paragraph tags
 * Retrieves the first paragraph element
 * Extracts all visible text from the webpage
-* Collects all anchor tags (<a>)
+* Collects all anchor tags 
 * Extracts all links from anchor tags
 * Outputs formatted (prettified) HTML
 * Saves all results into a file (output.txt)
@@ -29,49 +29,51 @@ A simple and efficient Python-based web scraping tool that extracts useful infor
 ---
 
 📂 Project Structure
-
+```
 web-scraper/
 │── scraper.py
 │── output.txt
 │── README.txt
-
+```
 ---
 
 ⚙️ Installation
 
 1. Clone the Repository
-
+```sh
 git clone https://github.com/subhankar505s/SimpleWebScraperTool.git
 cd SimpleWebScraperTool
-
+```
 2. Create Virtual Environment (Optional but Recommended)
-
+```sh
 python -m venv venv
-
+```
 Activate it:
 
 Windows:
+```sh
 venv\Scripts\activate
-
+```
 Linux/Mac:
+```sh
 source venv/bin/activate
-
+```
 3. Install Dependencies
-
+```sh
 pip install requests
 pip install html5lib
 pip install bs4
-
+```
 ---
 
 🚀 How to Run
-
+```sh
 python scraper.py
-
+```
 Then enter any URL when prompted:
 
 Enter or Paste the URL to Crawl:
-https://example.com
+``` https://example.com ```
 
 ---
 
