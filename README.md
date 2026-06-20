@@ -120,9 +120,20 @@ It includes:
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Developer
 
-Subhankar Mohanta
+<div align="center">
+
+## Subhankar Mohanta
+
+Cybersecurity Enthusiast • Network Engineer • Python Developer 
+
+Simple Web Scraping Tool v1.0.0  
+Designed & Developed by Subhankar Mohanta
+
+</div>
+
+---
 
 ---
 
